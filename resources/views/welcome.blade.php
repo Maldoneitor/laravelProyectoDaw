@@ -1,5 +1,4 @@
 
-<<<<<<< HEAD
 {{-- rafa --}}
 
 
@@ -8,11 +7,6 @@
 
 {{-- Que divertido es todo esto --}}
 
-=======
-{{-- yamil --}}
-{{-- rafa --}}
-{{-- PABLO --}}
->>>>>>> yamil/main
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
     <head>
