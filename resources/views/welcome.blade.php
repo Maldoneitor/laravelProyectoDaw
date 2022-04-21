@@ -1,13 +1,3 @@
-
-{{-- rafa --}}
-
-{{-- línea de prueba para GIT --}}
-{{-- otra jodida línea de prueba para GIT --}}
-{{-- (.)(.) --}}
-{{-- yamil --}}
-
-{{-- Que divertido es todo esto --}}
-
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
     <head>
